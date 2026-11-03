@@ -21,3 +21,4 @@ build/
 .agents/
 .aws/
 .codex/
+.aider*
